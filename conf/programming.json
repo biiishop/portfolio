@@ -1,0 +1,103 @@
+{
+  "languages": [
+    {
+      "name": "JavaScript",
+      "icon": "/programming/javascript.svg",
+      "skillLevel": "Proficient"
+    },
+    {
+      "name": "Python",
+      "icon": "/programming/python.svg",
+      "skillLevel": "Proficient"
+    },
+    {
+      "name": "HTML",
+        "icon": "/programming/html.svg",
+        "skillLevel": "Proficient"
+    },
+    {
+      "name": "CSS",
+        "icon": "/programming/css.svg",
+        "skillLevel": "Proficient"
+    },
+    {
+      "name": "C",
+      "icon": "/programming/c.svg",
+      "skillLevel": "Proficient"
+    },
+    {
+      "name": "Bash",
+      "icon": "/programming/bash.svg",
+      "skillLevel": "Proficient"
+    },
+    {
+      "name": "C++",
+      "icon": "/programming/cpp.svg",
+      "skillLevel": "Intermediate"
+    },
+    {
+      "name": "Rust",
+        "icon": "/programming/rust.svg",
+        "skillLevel": "Intermediate"
+    }
+  ],
+  "frameworks": [
+    {
+      "name": "Mantine",
+      "icon": "/programming/mantine.svg",
+      "skillLevel": "Expert"
+    },
+    {
+      "name": "Next.js",
+      "icon": "/programming/nextjs.svg",
+      "skillLevel": "Proficient"
+    },
+    {
+      "name": "React",
+      "icon": "/programming/react.svg",
+      "skillLevel": "Proficient"
+    },
+    {
+      "name": "Nuxt.js",
+      "icon": "/programming/nuxtjs.svg",
+      "skillLevel": "Proficient"
+    },
+    {
+      "name": "Express.js",
+      "icon": "/programming/expressjs.svg",
+      "skillLevel": "Intermediate"
+    }
+  ],
+  "tools": [
+    {
+      "name": "Git",
+        "icon": "/programming/git.svg",
+        "skillLevel": "Expert"
+    },
+    {
+      "name": "GitHub",
+        "icon": "/programming/github.svg",
+        "skillLevel": "Proficient"
+    },
+    {
+      "name": "Oracle Cloud",
+        "icon": "/programming/oracle.svg",
+        "skillLevel": "Proficient"
+    },
+    {
+      "name": "Vercel",
+      "icon": "/programming/vercel.svg",
+      "skillLevel": "Intermediate"
+    },
+    {
+      "name": "Jupyter",
+        "icon": "/programming/jupyter.svg",
+        "skillLevel": "Intermediate"
+    },
+    {
+      "name": "Docker",
+        "icon": "/programming/docker.svg",
+        "skillLevel": "Intermediate"
+    }
+  ]
+}
