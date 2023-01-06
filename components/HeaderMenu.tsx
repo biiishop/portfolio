@@ -93,7 +93,7 @@ export default function HeaderMenu({ links }: HeaderSearchProps) {
     <Header height={56} mb={120}>
       <Container>
         <div className={classes.inner}>
-          <MantineLogo size={28} />
+          <img height="30px" src="https://cdn.discordapp.com/avatars/676156871345700927/5a13c5ea7eb946886ba4725e60636707.webp?size=56" />
           <Group spacing={5} className={classes.links}>
             {items}
           </Group>

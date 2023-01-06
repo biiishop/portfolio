@@ -81,7 +81,7 @@ export default function IndexPage() {
         </Grid.Col>
         <Grid.Col span={6}>
           <CardWithStats
-            image="https://flyboat.biishop.org/flyboat.svg"
+            image="https://mario.wiki.gallery/images/3/34/SMO_Logo_Preliminary.png"
             title="Spiderman In SMO"
             completed='Completed'
             description="A Mod for SMO that adds Spiderman"
