@@ -47,7 +47,7 @@ interface HeaderSearchProps {
   links: { link: string; label: string; }[];
 }
 
-export function HeaderMenu({ links }: HeaderSearchProps) {
+export default function HeaderMenu({ links }: HeaderSearchProps) {
   const [opened, { toggle }] = useDisclosure(false);
   const { classes } = useStyles();
 

@@ -9,7 +9,7 @@ export default function App(props: AppProps) {
   return (
     <>
       <Head>
-        <title>Page title</title>
+        <title>| Me |</title>
         <link rel="shortcut icon" href="/favicon.svg" />
         <meta
           name="viewport"
