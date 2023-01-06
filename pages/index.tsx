@@ -1,5 +1,5 @@
 import { AppShell, Center, Grid } from '@mantine/core';
-import { HeaderMenu } from '../components/HeaderMenu'
+import HeaderMenu from '../components/HeaderMenu';
 import HeroTitle from '../components/HeroTitle';
 import CardWithStats from '../components/CardWithStats';
 import programming from '../conf/programming.json';
