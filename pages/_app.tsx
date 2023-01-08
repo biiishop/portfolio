@@ -14,14 +14,16 @@ export default function App(props: AppProps) {
         <meta
           name="viewport"
           content="minimum-scale=1, initial-scale=1, width=device-width"
+
         />
+        <script async defer src="https://analytics.umami.is/script.js" data-website-id="0d7e617b-9a0b-4564-ac0c-7f7ae6f3dbb4"></script>
       </Head>
 
       <MantineProvider
         withGlobalStyles
         withNormalizeCSS
         theme={{
-          /** Put your mantine theme override here */
+          /** Put youyouryouyourrr mantine theme override here */
           colorScheme: "dark",
         }}
       >
@@ -30,3 +32,4 @@ export default function App(props: AppProps) {
     </>
   );
 }
+youyourr
